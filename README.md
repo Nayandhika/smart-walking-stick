@@ -1,1 +1,1 @@
-# smartwalkingstick
+# smart-walking-stick
